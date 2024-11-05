@@ -1,0 +1,6 @@
+servlets\RegServlet.class
+listeners\Listener.class
+data\User.class
+com\mycompany\javatask2\resources\JakartaEE11Resource.class
+com\mycompany\javatask2\JakartaRestConfiguration.class
+model\DBCommunication.class
